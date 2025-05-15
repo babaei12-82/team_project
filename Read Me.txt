@@ -1,0 +1,17 @@
+Unity Professional v2018.2.17 f1 x64
+------------------------------------
+
+
+1. Install Unity
+2. Install standard assets.
+3. Copy and replace the Unity.exe file from the crack folder to the Unity editor folder (when installed on the C: - C: \ Program Files \ Unity \ Editor \ drive)
+4. Copy the license file Unity_lic.ulf from the crack folder to the folder C: \ ProgramData \ Unity \
+4.1 If on drive C: there is no ProgramData folder, enable the display of hidden files.
+4.2 If there is no Unity folder in the ?: \ ProgramData folder, create it.
+5. Run Unity for verification.
+6. Install support modules and add-ons that you need.
+
+
+-----------------------
+www.p30download.com
+the joy of Downloading!
